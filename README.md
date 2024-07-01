@@ -39,4 +39,10 @@ Splitting data into training and testing subsets for calorie prediction. The mod
 
 Once trained, saving the calorie estimation model as "calorie_model.task5" for future applications.
 
+## Contact
+For any questions or feedback regarding the project, please feel free to contact me via the email provided below.
+
+- <a href="https://www.linkedin.com/in/devika-b-826637288/"> Devika B (LinkedIn)</a>
+
+- E-mail:- devikab140@gmail.com
 
